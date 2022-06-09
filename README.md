@@ -1,9 +1,11 @@
 ### _Hi there 👋_
 
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development, Machine Learning, Deep Learning, Feature Engineering, X Platform Development.
 - 👯 I’m looking to collaborate on SPA
 - 🤔 I’m looking for help with AI/ML
 - 😄 Pronouns: He
+- 💻 Languages: C, C++, Java, Kotlin, Scala, Go, Rust, Python.
+- 💻 Frameworks: Spring, Spring Boot, Hibernate, Angular, React, Django.
 
 ## _Technologies_
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
