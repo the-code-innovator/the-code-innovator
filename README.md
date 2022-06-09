@@ -21,16 +21,3 @@
 [![Aravind's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=the-code-innovator&count_private=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-code-innovator&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**the-code-innovator/the-code-innovator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
