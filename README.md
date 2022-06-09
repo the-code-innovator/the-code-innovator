@@ -1,8 +1,8 @@
 ### _Hi there 👋_
 
-- 🌱 I’m currently learning Full Stack Development, Machine Learning, Deep Learning, Feature Engineering, X Platform Development.
-- 👯 I’m looking to collaborate on SPA
-- 🤔 I’m looking for help with AI/ML
+- 🌱 I’m currently learning Full Stack Development, Machine Learning, Deep Learning, Feature Engineering, Cross Platform Development.
+- 👯 I’m looking to collaborate on Single Page Applications, System Oriented Architechture, Full Stack Development.
+- 🤔 I’m looking for help with Artificial Intelligence, Machine Learning, Deep Learning, Data Science.
 - 😄 Pronouns: He
 - 💻 Languages: C, C++, Java, Kotlin, Scala, Go, Rust, Python.
 - 💻 Frameworks: Spring, Spring Boot, Hibernate, Angular, React, Django.
