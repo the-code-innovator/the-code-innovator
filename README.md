@@ -22,4 +22,4 @@
 
 [![Aravind's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=the-code-innovator&count_private=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-code-innovator&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-code-innovator&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
