@@ -18,8 +18,3 @@
 ![K8S](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## _GitHub Fancy Statistics_
-
-[![Aravind's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=the-code-innovator&count_private=false&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-code-innovator&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
